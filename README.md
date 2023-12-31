@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Floriano
+- 👋 Hi, I’m Floriano
 - 👀 I’m interested in Data and all subjet about mathematics and computer science 
 - 🌱 I’m currently learning github 
 - 📫 How to reach me for the moment i don't know :))
